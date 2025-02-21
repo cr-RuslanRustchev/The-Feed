@@ -3,14 +3,17 @@ The Feed is a curated Operational Threat Intelligence list of articles of intere
 
 ## 2025
 
-### January
-
+### February
+[The Feed 2025-02-21](./summaries/The%20Feed%202025-02-21.md)\
 [The Feed 2025-02-19](./summaries/The%20Feed%202025-02-19.md)\
 [The Feed 2025-02-17](./summaries/The%20Feed%202025-02-17.md)\
 [The Feed 2025-02-10](./summaries/The%20Feed%202025-02-10.md)\
 [The Feed 2025-02-07](./summaries/The%20Feed%202025-02-07.md)\
 [The Feed 2025-02-05](./summaries/The%20Feed%202025-02-05.md)\
 [The Feed 2025-02-03](./summaries/The%20Feed%202025-02-03.md)\
+
+### January
+
 [The Feed 2025-01-31](./summaries/The%20Feed%202025-01-31.md)\
 [The Feed 2025-01-28](./summaries/The%20Feed%202025-01-28.md)\
 [The Feed 2025-01-27](./summaries/The%20Feed%202025-01-27.md)\
