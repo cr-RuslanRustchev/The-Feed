@@ -4,6 +4,7 @@ The Feed is a curated Operational Threat Intelligence list of articles of intere
 ## 2025
 
 ### March
+[The Feed 2025-03-28](./summaries/The-Feed_2025-03-28.md)\
 [The Feed 2025-03-26](./summaries/The-Feed_2025-03-26.md)\
 [The Feed 2025-03-24](./summaries/The-Feed_2025-03-24.md)\
 [The Feed 2025-03-21](./summaries/The-Feed_2025-03-21.md)\
