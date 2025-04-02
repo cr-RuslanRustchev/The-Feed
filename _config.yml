@@ -7,4 +7,6 @@ title: The (SecOps) Feed
 description: The Feed is a curated Operational Threat Intelligence list of articles of interest for SOC / DFIR / CTI and Threat Hunting Teams.
 author: Ruslan Rustchev
 layouts_dir: _layouts
-header-pages: false
+header-pages: 
+  - The-Feed
+  
